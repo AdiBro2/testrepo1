@@ -12,7 +12,8 @@ function add(){
 }
 
 function multiply(a,b){
-	printf("mul: ",a*b); // THIS IS A NEW COMMENT FOR MULTIPLCIATION
+	printf("mul: ",a*b); // FIXED MASTER's TYPO - It's MULTIPLICATION
+
 }
 
 function div(a,b){
